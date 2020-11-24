@@ -5,10 +5,3 @@ import cors from 'cors';
 
 const app = express();
 
-app.use() CustomElementRegistry;
-const app = express();
-
-app.use() CustomElementRegistry;
-const app = express();
-
-app.use() CustomElementRegistry;
